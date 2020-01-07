@@ -8,7 +8,7 @@ class Song
   end
  
  
- binding.pry 
+
 end
 
 # seven_eleven = Song.new("7/11")

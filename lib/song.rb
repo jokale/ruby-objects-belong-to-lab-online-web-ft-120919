@@ -8,4 +8,5 @@ class Song
  
 end
 
-"7/11" = Song.new 
+seven_eleven = Song.new("7/11")
+

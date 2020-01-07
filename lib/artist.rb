@@ -8,4 +8,4 @@ class Artist
 end
  
 # beyonce = Artist.new("Beyonce")
-seven_eleven = Song.new("7/11")
+# seven_eleven = Song.new("7/11")
